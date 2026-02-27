@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**DefNotEv/DefNotEv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Evelyn Hannah Wong
 
-Here are some ideas to get you started:
+(I don't code tbh)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/evelynhwong) •
+[Instagram](https://www.instagram.com/wong.zs) •
+[X (Twitter)](https://x.com/evelynhannah_)
+
+</div>
+
+## What I'm Up To Right Now
+
+- Studying Motorsports Engineering @ Purdue University
+- Building Downtown Indy Rally Team (DIRT) @ Purdue
+- Staying sober from Monster since January 20
+
+---
