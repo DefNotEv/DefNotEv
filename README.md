@@ -36,6 +36,18 @@
 
 ---
 
+<!-- SPOTIFY:START -->
+<!-- Spotify now-playing widget goes here once set up -->
+<!-- SPOTIFY:END -->
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=DefNotEv&style=for-the-badge&color=ff3f7f&label=PROFILE+VIEWS" alt="Profile views"/>
+
+</div>
+
+---
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6FA5,100:C2185B&height=100&section=footer" width="100%"/>
 </div>
