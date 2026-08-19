@@ -20,17 +20,12 @@
 
 ---
 
-### 🏎️ What I'm Up To Right Now
-
-- 🎓 Studying **Motorsports Engineering** @ Purdue University
-- 🔧 Building **Downtown Indy Rally Team (DIRT)** @ Purdue
-- 🥤 Staying sober from Monster — live counter below
-
 <div align="center">
 
 <!-- SOBER-COUNTER:START -->
 <img alt="Sober from Monster" src="https://img.shields.io/badge/Sober%20from%20Monster-210%20days-FF3F7F?style=for-the-badge"/>
 <!-- SOBER-COUNTER:END -->
+<img src="https://komarev.com/ghpvc/?username=DefNotEv&style=for-the-badge&color=ff3f7f&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
@@ -39,16 +34,12 @@
 <!-- SPOTIFY:START -->
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=tcy0qyugzn3kev2e32t1x0ov0&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=ff3f7f&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+<a href="https://github.com/kittinan/spotify-github-profile">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=tcy0qyugzn3kev2e32t1x0ov0&cover_image=true&theme=compact&show_offline=false&background_color=121212&bar_color=ff3f7f&interchange=false" width="300" alt="spotify-github-profile"/>
+</a>
 
 </div>
 <!-- SPOTIFY:END -->
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=DefNotEv&style=for-the-badge&color=ff3f7f&label=PROFILE+VIEWS" alt="Profile views"/>
-
-</div>
 
 ---
 
