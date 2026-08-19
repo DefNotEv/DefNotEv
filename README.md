@@ -37,7 +37,11 @@
 ---
 
 <!-- SPOTIFY:START -->
-<!-- Spotify now-playing widget goes here once set up -->
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=tcy0qyugzn3kev2e32t1x0ov0&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=ff3f7f&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
 <!-- SPOTIFY:END -->
 
 <div align="center">
