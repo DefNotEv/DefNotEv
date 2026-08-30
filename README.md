@@ -23,7 +23,7 @@
 <div align="center">
 
 <!-- SOBER-COUNTER:START -->
-<img alt="Sober from Monster" src="https://img.shields.io/badge/Sober%20from%20Monster-221%20days-FF3F7F?style=for-the-badge"/>
+<img alt="Sober from Monster" src="https://img.shields.io/badge/Sober%20from%20Monster-222%20days-FF3F7F?style=for-the-badge"/>
 <!-- SOBER-COUNTER:END -->
 <img src="https://komarev.com/ghpvc/?username=DefNotEv&style=for-the-badge&color=ff3f7f&label=PROFILE+VIEWS" alt="Profile views"/>
 
